@@ -1,0 +1,402 @@
+[
+  {
+      "name": "Alamance",
+      "tax": "6.75"
+    },
+    {
+      "name": "Alexander",
+      "tax": "7.00"
+    },
+    {
+      "name": "Alleghany",
+      "tax": "6.75"
+    },
+    {
+      "name": "Anson",
+      "tax": "7.00"
+    },
+    {
+      "name": "Ashe",
+      "tax": "7.00"
+    },
+    {
+      "name": "Avery",
+      "tax": "6.75"
+    },
+    {
+      "name": "Beaufort",
+      "tax": "6.75"
+    },
+    {
+      "name": "Bertie",
+      "tax": "6.75"
+    },
+    {
+      "name": "Bladen",
+      "tax": "6.75"
+    },
+    {
+      "name": "Brunswick",
+      "tax": "6.75"
+    },
+    {
+      "name": "Buncombe",
+      "tax": "7.00"
+    },
+    {
+      "name": "Burke",
+      "tax": "6.75"
+    },
+    {
+      "name": "Cabarrus",
+      "tax": "7.00"
+    },
+    {
+      "name": "Caldwell",
+      "tax": "6.75"
+    },
+    {
+      "name": "Camden",
+      "tax": "6.75"
+    },
+    {
+      "name": "Carteret",
+      "tax": "7.00"
+    },
+    {
+      "name": "Caswell",
+      "tax": "6.75"
+    },
+    {
+      "name": "Catawba",
+      "tax": "7.00"
+    },
+    {
+      "name": "Chatham",
+      "tax": "7.50"
+    },
+    {
+      "name": "Cherokee",
+      "tax": "7.00"
+    },
+    {
+      "name": "Chowan",
+      "tax": "6.75"
+    },
+    {
+      "name": "Clay",
+      "tax": "7.00"
+    },
+    {
+      "name": "Cleveland",
+      "tax": "6.75"
+    },
+    {
+      "name": "Columbus",
+      "tax": "6.75"
+    },
+    {
+      "name": "Craven",
+      "tax": "6.75"
+    },
+    {
+      "name": "Cumberland",
+      "tax": "7.00"
+    },
+    {
+      "name": "Currituck",
+      "tax": "6.75"
+    },
+    {
+      "name": "Dare",
+      "tax": "6.75"
+    },
+    {
+      "name": "Davidson",
+      "tax": "7.00"
+    },
+    {
+      "name": "Davie",
+      "tax": "6.75"
+    },
+    {
+      "name": "Duplin",
+      "tax": "7.00"
+    },
+    {
+      "name": "Durham",
+      "tax": "7.50"
+    },
+    {
+      "name": "Edgecombe",
+      "tax": "7.00"
+    },
+    {
+      "name": "Forsyth",
+      "tax": "6.75"
+    },
+    {
+      "name": "Franklin",
+      "tax": "6.75"
+    },
+    {
+      "name": "Gaston",
+      "tax": "7.00"
+    },
+    {
+      "name": "Gates",
+      "tax": "6.75"
+    },
+    {
+      "name": "Graham",
+      "tax": "7.00"
+    },
+    {
+      "name": "Granville",
+      "tax": "6.75"
+    },
+    {
+      "name": "Greene",
+      "tax": "7.00"
+    },
+    {
+      "name": "Guilford",
+      "tax": "6.75"
+    },
+    {
+      "name": "Halifax",
+      "tax": "7.00"
+    },
+    {
+      "name": "Harnett",
+      "tax": "7.00"
+    },
+    {
+      "name": "Haywood",
+      "tax": "7.00"
+    },
+    {
+      "name": "Henderson"
+    },
+    {
+      "name": "Hertford",
+      "tax": "7.00"
+    },
+    {
+      "name": "Hoke",
+      "tax": "6.75"
+    },
+    {
+      "name": "Hyde",
+      "tax": "6.75"
+    },
+    {
+      "name": "Iredell",
+      "tax": "6.75"
+    },
+    {
+      "name": "Jackson",
+      "tax": "7.00"
+    },
+    {
+      "name": "Johnston",
+      "tax": "6.75"
+    },
+    {
+      "name": "Jones",
+      "tax": "7.00"
+    },
+    {
+      "name": "Lee",
+      "tax": "7.00"
+    },
+    {
+      "name": "Lenoir",
+      "tax": "7.00"
+    },
+    {
+      "name": "Lincoln",
+      "tax": "7.00"
+    },
+    {
+      "name": "Macon",
+      "tax": "6.75"
+    },
+    {
+      "name": "Madison",
+      "tax": "6.75"
+    },
+    {
+      "name": "Martin",
+      "tax": "7.00"
+    },
+    {
+      "name": "Mcdowell",
+      "tax": "6.75"
+    },
+    {
+      "name": "Mecklenburg",
+      "tax": "7.25"
+    },
+    {
+      "name": "Mitchell",
+      "tax": "6.75"
+    },
+    {
+      "name": "Montgomery",
+      "tax": "7.00"
+    },
+    {
+      "name": "Moore",
+      "tax": "7.00"
+    },
+    {
+      "name": "Nash",
+      "tax": "7.00"
+    },
+    {
+      "name": "New Hanover",
+      "tax": "7.00"
+    },
+    {
+      "name": "Northampton",
+      "tax": "6.75"
+    },
+    {
+      "name": "Onslow",
+      "tax": "7.00"
+    },
+    {
+      "name": "Orange",
+      "tax": "7.50"
+    },
+    {
+      "name": "Pamlico",
+      "tax": "6.75"
+    },
+    {
+      "name": "Pasquotank",
+      "tax": "7.00"
+    },
+    {
+      "name": "Pender",
+      "tax": "6.75"
+    },
+    {
+      "name": "Perquimans",
+      "tax": "6.75"
+    },
+    {
+      "name": "Person",
+      "tax": "7.50"
+    },
+    {
+      "name": "Pitt",
+      "tax": "7.00"
+    },
+    {
+      "name": "Polk",
+      "tax": "6.75"
+    },
+    {
+      "name": "Randolph",
+      "tax": "7.00"
+    },
+    {
+      "name": "Richmond",
+      "tax": "7.00"
+    },
+    {
+      "name": "Robeson",
+      "tax": "7.00"
+    },
+    {
+      "name": "Rockingham",
+      "tax": "7.00"
+    },
+    {
+      "name": "Rowan",
+      "tax": "7.00"
+    },
+    {
+      "name": "Rutherford",
+      "tax": "7.00"
+    },
+    {
+      "name": "Sampson",
+      "tax": "7.00"
+    },
+    {
+      "name": "Scotland",
+      "tax": "6.75"
+    },
+    {
+      "name": "Stanly",
+      "tax": "7.00"
+    },
+    {
+      "name": "Stokes",
+      "tax": "6.75"
+    },
+    {
+      "name": "Surry",
+      "tax": "7.00"
+    },
+    {
+      "name": "Swain",
+      "tax": "7.00"
+    },
+    {
+      "name": "Transylvania",
+      "tax": "6.75"
+    },
+    {
+      "name": "Tyrrell",
+      "tax": "6.75"
+    },
+    {
+      "name": "Union",
+      "tax": "6.75"
+    },
+    {
+      "name": "Vance",
+      "tax": "6.75"
+    },
+    {
+      "name": "Wake",
+      "tax": "7.25"
+    },
+    {
+      "name": "Warren",
+      "tax": "7.00"
+    },
+    {
+      "name": "Washington",
+      "tax": "6.75"
+    },
+    {
+      "name": "Watauga",
+      "tax": "6.75"
+    },
+    {
+      "name": "Wayne",
+      "tax": "6.75"
+    },
+    {
+      "name": "Wilkes",
+      "tax": "7.00"
+    },
+    {
+      "name": "Wilson",
+      "tax": "7.00"
+    },
+    {
+      "name": "Yadkin",
+      "tax": "6.75"
+    },
+    {
+      "name": "Yancey",
+      "tax": "6.75"
+    }
+
+]
