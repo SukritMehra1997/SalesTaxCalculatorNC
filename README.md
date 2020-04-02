@@ -80,8 +80,12 @@ public HttpResponseMessage Calculate(string county, float cost)
 ### Installing
 
 After cloning Repoistory, Open Visual Studio and open solutions Folder.
-After opening project, install any missing packages using nuGet Package manager.
 
+Open Package manager console.
+Type the Following command:
+```
+Update-Package 
+```
 Build Solution by pressing "CTRL + Shift + B" or by going onto build dropdown in menu and click Build.
 
 ## Running-Web-API
