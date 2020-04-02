@@ -11,25 +11,26 @@ These instructions will get you a copy of the project up and running on your loc
 Visual Studio with C# and .NET
 Windows 10
 PostMan
-```
+
 Download visual studio from [Visual Studio](https://visualstudio.microsoft.com/) - IDE used
-Download Postman from [Postman{(https://www.postman.com/downloads/) - API request handler
-```
+
+Download Postman from [Postman](https://www.postman.com/downloads/) - API request handler
+
 
 ### Packages
-```
-Microsoft.AspNet.WebApi version="5.2.7
 
-Microsoft.AspNet.WebApi.Client version="5.2.7
+Microsoft.AspNet.WebApi version= 5.2.7
 
-Microsoft.AspNet.WebApi.Core version="5.2.7
+Microsoft.AspNet.WebApi.Client version= 5.2.7
 
-Microsoft.AspNet.WebApi.WebHost version="5.2.7
+Microsoft.AspNet.WebApi.Core version= 5.2.7
 
-Microsoft.CodeDom.Providers.DotNetCompilerPlatform version="2.0.1
+Microsoft.AspNet.WebApi.WebHost version= 5.2.7
 
-Newtonsoft.Json 12.0.2
-```
+Microsoft.CodeDom.Providers.DotNetCompilerPlatform version= 2.0.1
+
+Newtonsoft.Json version= 12.0.2
+
 ### API End Point
 Calculate: send in two parameters, county and cost and returns json object of Sales tax for that county. if county does not exist returns status failure.
 ```
